@@ -5,8 +5,9 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigurationReader {
+    //this class help us read configuration.properties file easily
 
-    //Create properties object
+
      private static Properties properties = new Properties();
 
      static {

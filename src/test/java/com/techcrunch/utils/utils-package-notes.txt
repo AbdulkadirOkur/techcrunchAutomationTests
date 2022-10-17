@@ -1,0 +1,6 @@
+BrowserUtils:
+We put useful methods and when we need it we can easily call
+ConfigurationReader:
+This class help us read configuration.properties file easily
+Driver:
+We implement singleton design pattern and pass around the same driver object.
