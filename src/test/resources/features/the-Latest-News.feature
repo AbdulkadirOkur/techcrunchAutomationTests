@@ -1,4 +1,4 @@
-@wip
+
 Feature:For “The Latest News” list, verify followings;
   a. each news has at least an author
   b. each news has at least an image
