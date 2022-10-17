@@ -1,0 +1,4 @@
+This package is where we implement Page Object model design pattern
+in POM we are creating one java class for each page of tha application
+and put all the web elements and useful methods here.
+We are achieving code centralization, easy to read and many more benefits.

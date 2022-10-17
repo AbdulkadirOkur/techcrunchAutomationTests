@@ -1,0 +1,5 @@
+This package is where we trigger our tests.
+We can get different kind of reports
+We can make dryRun true for only getting snippets for the feature steps (BDD approach)
+We can give different kind of tags to only run same tag include tests
+We can make a cucumber report publish to share it easily

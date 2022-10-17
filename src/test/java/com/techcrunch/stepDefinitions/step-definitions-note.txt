@@ -1,0 +1,2 @@
+We are putting step implementations here
+Also we are giving before and after methods inside Hook class (for example if test fails take a screenshot)
